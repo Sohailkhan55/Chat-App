@@ -25,7 +25,7 @@
 
 - Node.js
 - MongoDB
-- Angular CLI
+- React.js
 
 ### Steps
 
